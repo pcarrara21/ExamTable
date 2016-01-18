@@ -8,7 +8,7 @@ UI and user input are maneged by a Java basis ( about 500 LOC ).
 The project has been developed using Java Netbeans IDE 8.0.2.
 
 <p align="center">
-![screenshot](tableImage.png)
+<img src="tableImage.png" alt="screenshot" />
 </p>
 
 The application itself is self-explanatory once run and contains a .jpg screenshot inside the main folder.
