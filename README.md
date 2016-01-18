@@ -7,7 +7,9 @@ instead of an XML-style base codification.
 UI and user input are maneged by a Java basis ( about 500 LOC ).
 The project has been developed using Java Netbeans IDE 8.0.2.
 
-->![screenshot](tableImage.png)<-
+<p align="center">
+[screenshot](tableImage.png)
+</p>
 
 The application itself is self-explanatory once run and contains a .jpg screenshot inside the main folder.
 It's highly suggested to keep a .txt file containing all the exam definitions in order to copy-paste every exam and defining the table
